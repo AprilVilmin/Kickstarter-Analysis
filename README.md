@@ -10,6 +10,10 @@ Performing analysis on Kickstarter data to uncover trends in crowd sourcing data
 
 
 ## Subcategory Outcomes
+![image_name](path/to/image_name.png)
 
 
 ## Outcomes by Launch Date
+![Outcomes by Launch Date.png](https://github.com/AprilVilmin/Kickstarter-Analysis/blob/main/Outcomes%20by%20Launch%20Date.png
+
+
