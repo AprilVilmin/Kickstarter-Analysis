@@ -11,7 +11,11 @@ Louise wants company XYX, to look specifically at the differences in funding goa
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Theater_Outcomes_vs_Launch.png](https://github.com/AprilVilmin/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes_vs_Goals.png](https://github.com/AprilVilmin/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 One of the largest difficulties I faced in doing this analysis is that I had created a custom theme and saved of each of my graphs as png files so that the colors on the lines on my graphs matched the lines on the graphs in the challenge perfectly. When I went in to reveiw them I noticed that the first graph's color had been updated to the theme in the second graph. I updated them again and this is when I noticed that that in the version of Microsoft Excel that I have (Microsoft 360) you can only have one color theme per workbook.
