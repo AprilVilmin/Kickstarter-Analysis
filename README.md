@@ -17,7 +17,7 @@ When the crowdsourcing data is filtered to theater and sorted by month it appear
 ### Analysis of Outcomes Based on Goals
 Outcomes based on Goals does not have as clear as amswer as those by Launch Date. The success of campaigns kind of ebbs and flows. They appear to be most successful if they have a goal of less than a thousand dollars, but also hit another success peak/plateu around the goal of $37,250 to $42,500.
 
-![Outcomes_vs_Goals.png](https://github.com/AprilVilmin/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](https://github.com/AprilVilmin/Kickstarter-Analysis/commit/c4017bc2f77714d69590614f774ee300f18e6d69)
 
 ### Challenges and Difficulties Encountered
 One of the largest difficulties I faced in doing this analysis is that I had created a custom theme and saved of each of my graphs as png files so that the colors on the lines on my graphs matched the lines on the graphs in the challenge perfectly. When I went in to reveiw them I noticed that the first graph's color had been updated to the theme in the second graph. I updated them again and this is when I noticed that that in the version of Microsoft Excel that I have (Microsoft 360) you can only have one color theme per workbook. 
