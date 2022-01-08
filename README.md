@@ -1,25 +1,27 @@
-# An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends
+# Kickstarting with Excel (An Analysis of Crowdsourcing Campaigns)
 
-## Parent Categories
-![Parent Category Outcomes.png](https://github.com/AprilVilmin/Kickstarter-Analysis/blob/main/Parent%20Category%20Outcomes.png)
+## Overview of Project
+Louise previously had our company, XYX, complete analysis prior to kicking off a fundraising campaign for "Fever", a play she wanted to produce. Louise used this prior analyis to structure her fundraising campaign. Her campaign fell short of it's goal. Now that the campaign has come to a close, she wants to see how her crowdsourcing compared to other campaign's goals and launch dates.
 
-* The theater parent category has the most kickstarters out of any parent category. It also has the most successful and the most failed kickstarters.
+### Purpose
+The purpose of this analysis is to compare and contrast Louise fundraising for "Fever" to other campaigns and launch dates. In doing this, Louise would be able to start a list of 'best practices' and 'lessons learned' that she can continue to grow with her career. Hopefully this analysis will Louise what changes she can make to make her next fundraising campaign(s) more successful.
 
-## US Parent Categories
-![Us Parent Category Outcomes.pnd](https://github.com/AprilVilmin/Kickstarter-Analysis/blob/main/US%20Parent%20Category%20Outcomes.png)
+## Analysis and Challenges
+Louise wants company XYX, to look specifically at the differences in funding goals and launch dates. 
 
-* The parent category when filtered down to look just at the US. Successful categories become similar between music and theater.
+### Analysis of Outcomes Based on Launch Date
 
-## Subcategory Outcomes
-![Subcategory Outcomes.png](https://github.com/AprilVilmin/Kickstarter-Analysis/blob/main/Subcategory%20Outcomes.png)
+### Analysis of Outcomes Based on Goals
 
-* When we look at the Subcategory Outcomes graph we can see that the vast majority of kickstarters are plays and that the majority are successful.\
-## Outcomes by Launch Date
-![Outcomes by Launch Date.png](https://github.com/AprilVilmin/Kickstarter-Analysis/blob/main/Outcomes%20by%20Launch%20Date.png
-)
+### Challenges and Difficulties Encountered
+One of the largest difficulties I faced in doing this analysis is that I had created a custom theme and saved of each of my graphs as png files so that the colors on the lines on my graphs matched the lines on the graphs in the challenge perfectly. When I went in to reveiw them I noticed that the first graph's color had been updated to the theme in the second graph. I updated them again and this is when I noticed that that in the version of Microsoft Excel that I have (Microsoft 360) you can only have one color theme per workbook.
 
-* Looking at this graph it appears that May and June have high kick starter success rates and low cancelled rates.
+## Results
 
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Recomendation: Have the kickstarter in May or June as they appear to have higher success rates based on the data.
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
